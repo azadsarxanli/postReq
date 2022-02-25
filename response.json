@@ -1,0 +1,16 @@
+{
+  "error": {
+    "name": {
+      "value": "",
+      "msg": "Zəhmət olamasa adınızı daxil edin !",
+      "param": "name",
+      "location": "body"
+    },
+    "phone": {
+      "value": "",
+      "msg": "Lütfən düzgün əlaqə nömrənizi daxil edin !",
+      "param": "phone",
+      "location": "body"
+    }
+  }
+}
